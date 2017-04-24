@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">SendOTP</string>
+
+    // main activity Strings
+    <string name="main_activity_toolbar_title">SendOTP</string>
+    <string name="contact_list">Contact list</string>
+    <string name="otp_history">OTP history</string>
+
+    // Send otp activity strings
+    <string name="send_otp">Send message</string>
+    <string name="otp_message">Hi. Your OTP is : </string>
+    <string name="send">Send</string>
+    <string name="cancel">Cancel</string>
+
+    // contact information activity string
+    <string name="info_activity_toolbar_title">Send OTP</string>
+
+    // Error Strings
+    <string name="error_title">ERROR</string>
+    <string name="error_message">An unknown error has occured</string>
+
+    // Progress bar Strings
+    <string name="please_wait">Please wait</string>
+
+    // Error Strings
+    <string name="permision_error_title">Permission Denied</string>
+    <string name="permission_error_message">The app does not have necessary permission to send SMS. Please grant permissions from app settings</string>
+
+</resources>

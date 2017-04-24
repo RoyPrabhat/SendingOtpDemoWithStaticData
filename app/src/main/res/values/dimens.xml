@@ -1,0 +1,19 @@
+<resources>
+
+    <!-- elevation used by toolbar throughout apps -->
+    <dimen name="toolbar_elevation">4dp</dimen>
+
+    <!-- card view dimensions  -->
+    <dimen name="card_view_margin">5dp</dimen>
+    <dimen name="card_corner_radius">5dp</dimen>
+
+    <!-- Big text size-->
+    <dimen name="text_size_big">40sp</dimen>
+    <!-- Small text size-->
+    <dimen name="text_size_small">20sp</dimen>
+
+    <!-- progress bar dimensions-->
+    <dimen name="progress_bar_dimension">40dp</dimen>
+    <dimen name="progress_bar_margins">12dp</dimen>
+
+</resources>
